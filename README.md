@@ -12,5 +12,3 @@
 </div><br/>
 
 Apaixonado por programação e tecnologia
-
-Otimismo, gratidão e persistência 🚀
