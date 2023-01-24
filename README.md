@@ -1,4 +1,5 @@
 ### Olá! Eu sou o João Gustavo ✋
+Sou apaixonado por programação e tecnologia
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gustavo-1ba64a232/)
 
@@ -10,4 +11,3 @@
     
 </div><br/>
 
-Apaixonado por programação e tecnologia
